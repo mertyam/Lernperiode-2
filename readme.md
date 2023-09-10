@@ -29,4 +29,7 @@ Ich habe heute alles was ich mir vorgenommen habe plus extras erledigt. Ich bin 
 
 
 ## Arbeitspakete für 12.09.23
--[]Ideen umsetzen
+-[]Witze Generator übersichtlicher machen
+-[]vielleicht neue Witzearten hinzufügen
+-[]Code übersichtlicher machen
+-[]neues Projekt überlegen
