@@ -11,10 +11,10 @@ Ich würde gerne ein Programm erstellen was mir hilft meine Vokabeln in der Schu
 ## Arbeitspakete für 29.08.23
 
 
-- [erledigt ] Witze, Infos etc. sammeln.
-- [ erledigt] Generator programmieren
-- [ erledigt] Generator programmieren
-- [erledigt ] Witze einfügen
+- [x] Witze, Infos etc. sammeln.
+- [x] Generator programmieren
+- [x] Generator programmieren
+- [x] Witze einfügen
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 
@@ -23,13 +23,21 @@ Ich habe heute alles was ich mir vorgenommen habe plus extras erledigt. Ich bin 
 
 
 ## Arbeitspakete für 05.09.23
--[erledigt]Neue Ideen für mein Witzgenerator finden
--[erledigt]Probleme von meinem Generator beheben
+-[x]Neue Ideen für mein Witzgenerator finden
+-[x]Probleme von meinem Generator beheben
 
 
 
 ## Arbeitspakete für 12.09.23
 -[]Witze Generator übersichtlicher machen
--[]vielleicht neue Witzearten hinzufügen
--[]Code übersichtlicher machen
+-[x]vielleicht neue Witzearten hinzufügen(neue Witze)
+-[x]Code übersichtlicher machen
 -[]neues Projekt überlegen
+
+Ich habe nicht herausgefunden wie ich das auf der Konsole übersichtlicher mache darum habe ich viel Zeit verloren.
+
+## Arbeitspakete für 19.09.23
+-[]Generator übersichtlicher machen
+-[]neues Projekt überlegen
+-[]wenn möglich neues Projekt anfangen
+
