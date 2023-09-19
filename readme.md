@@ -37,7 +37,13 @@ Ich habe heute alles was ich mir vorgenommen habe plus extras erledigt. Ich bin 
 Ich habe nicht herausgefunden wie ich das auf der Konsole übersichtlicher mache darum habe ich viel Zeit verloren.
 
 ## Arbeitspakete für 19.09.23
--[]Generator übersichtlicher machen
+-[x]Generator übersichtlicher machen
 -[]neues Projekt überlegen
 -[]wenn möglich neues Projekt anfangen
 
+Ich konnte heute mir kein neues Projekt überlegen, weil ich auch Zeit verloren habe da ein Problem an meinem Generator aufgetreten ist.
+
+## Arbeitspakete für 26.09.23
+-[]Modul 431 17013
+-[]Modul 431 1721
+-[]Modul 431 1722
