@@ -28,17 +28,17 @@ Ich habe heute alles was ich mir vorgenommen habe plus extras erledigt. Ich bin 
 
 
 ## Arbeitspakete für 12.09.23
-- []Witze Generator übersichtlicher machen
--[x]vielleicht neue Witzearten hinzufügen(neue Witze)
--[x]Code übersichtlicher machen
--[]neues Projekt überlegen
+- [ ] Witze Generator übersichtlicher machen
+- [x] vielleicht neue Witzearten hinzufügen(neue Witze)
+- [x] Code übersichtlicher machen
+- [ ] neues Projekt überlegen
 
 Ich habe nicht herausgefunden wie ich das auf der Konsole übersichtlicher mache darum habe ich viel Zeit verloren.
 
 ## Arbeitspakete für 19.09.23
--[x]Generator übersichtlicher machen
--[]neues Projekt überlegen
--[]wenn möglich neues Projekt anfangen
+- [x] Generator übersichtlicher machen
+- [ ] neues Projekt überlegen
+- [ ] wenn möglich neues Projekt anfangen
 
 Ich konnte heute mir kein neues Projekt überlegen, weil ich auch Zeit verloren habe da ein Problem an meinem Generator aufgetreten ist.
 
