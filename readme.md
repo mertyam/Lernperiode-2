@@ -47,3 +47,11 @@ Ich konnte heute mir kein neues Projekt überlegen, weil ich auch Zeit verloren 
 - [x] Modul 431 1713
 - [x] Modul 431 1721
 - [x] Modul 431 1722
+
+Ich habe alle Modulaufgabben abgeschlossen und habe danach noch einen Englisch Voci Generator programmiert.
+
+## Reflexion
+
+Anfangs hatte ich Schwierigkeiten und habe langsam gearbeitet, weil das Programmieren neu für mich war. Doch mit der Zeit habe ich mich daran gewöhnt.
+Als erstes habe ich einen Witzegenerator programmiert. Dort sind Probleme usw aufgetaucht was mir die Arbeit erschwert hat. Ich war im Modul 431 hintendrin dadurch musste ich am letzten Tag noch paar Aufträge nachgeholt. Danach hatte ich noch genug Zeit einen Voci Trainer zu programmieren für meinen Englisch Voci Test.
+Nächstes mal würde ich bessere Arbeitspakete aufschreiben, die
