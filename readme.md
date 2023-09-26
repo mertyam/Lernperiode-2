@@ -22,14 +22,13 @@ Ich habe heute alles was ich mir vorgenommen habe plus extras erledigt. Ich bin 
 
 
 
-## Arbeitspakete für 05.09.23
--[x]Neue Ideen für mein Witzgenerator finden
+## Arbeitspakete für 05.09.23-[x]Neue Ideen für mein Witzgenerator finden
 -[x]Probleme von meinem Generator beheben
 
 
 
 ## Arbeitspakete für 12.09.23
--[]Witze Generator übersichtlicher machen
+- []Witze Generator übersichtlicher machen
 -[x]vielleicht neue Witzearten hinzufügen(neue Witze)
 -[x]Code übersichtlicher machen
 -[]neues Projekt überlegen
