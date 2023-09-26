@@ -53,5 +53,5 @@ Ich habe alle Modulaufgabben abgeschlossen und habe danach noch einen Englisch V
 ## Reflexion
 
 Anfangs hatte ich Schwierigkeiten und habe langsam gearbeitet, weil das Programmieren neu für mich war. Doch mit der Zeit habe ich mich daran gewöhnt.
-Als erstes habe ich einen Witzegenerator programmiert. Dort sind Probleme usw aufgetaucht was mir die Arbeit erschwert hat. Ich war im Modul 431 hintendrin dadurch musste ich am letzten Tag noch paar Aufträge nachgeholt. Danach hatte ich noch genug Zeit einen Voci Trainer zu programmieren für meinen Englisch Voci Test.
-Nächstes mal würde ich bessere Arbeitspakete aufschreiben, die
+Als erstes habe ich einen Witzegenerator programmiert. Dort sind Probleme usw aufgetaucht was mir die Arbeit erschwert hat. Ich habe den Generator noch verschönert was auch mein Wissen erweitert hat. Ich war im Modul 431 hintendrin dadurch musste ich am letzten Tag noch paar Aufträge nachgeholt. Danach hatte ich noch genug Zeit einen Voci Trainer zu programmieren für meinen Englisch Voci Test.
+Nächstes mal würde ich bessere Arbeitspakete aufschreiben, die "schlauer" sind, weil diese Lernperiode habe ich nie genau das geschafft was ich mir vorgenommen habe.
