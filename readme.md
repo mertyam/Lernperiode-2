@@ -21,5 +21,5 @@ Ich konnte leider nicht alle Arbeitspakete erledigen. Ich habe nicht damit gerre
 
 -[] An Projekt arbeiten (Kantilehrer)
 -[] Projekt überlegen
--[] Projekt beginnen
+-[] HTML CSS Projekt
 -[] Themen die ich nicht kann repetieren.
