@@ -19,7 +19,15 @@ Ich konnte leider nicht alle Arbeitspakete erledigen. Ich habe nicht damit gerre
 
 ## Arbeitspakete für 31.10.23
 
--[] An Projekt arbeiten (Kantilehrer)
--[] Projekt überlegen
--[] HTML CSS Projekt
--[] Themen die ich nicht kann repetieren.
+- [] An Projekt arbeiten (Kantilehrer)
+- [x] Projekt überlegen
+- [x] HTML CSS Projekt
+- [x] Themen die ich nicht kann repetieren.
+
+Ich habe heute mir ein Projekt überlegt und dieses Angefangen. Ich will etwas mit machen indem ich die funktion von C# ausnutzen kann in Dokumente zu schreiben. Ich habe mir noch HTML und CSS angeschaut.
+
+## Arbeitspakete für 07.11.23
+
+- [] Fehler im Programm beheben (es findet die Datei nicht)
+- [] Mich mehr über diese Funktion informieren
+- [] Mit der Funktion rum experementieren
