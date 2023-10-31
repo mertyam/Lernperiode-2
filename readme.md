@@ -24,7 +24,7 @@ Ich konnte leider nicht alle Arbeitspakete erledigen. Ich habe nicht damit gerre
 - [x] HTML CSS Projekt
 - [x] Themen die ich nicht kann repetieren.
 
-Ich habe heute mir ein Projekt überlegt und dieses Angefangen. Ich will etwas mit machen indem ich die funktion von C# ausnutzen kann in Dokumente zu schreiben. Ich habe mir noch HTML und CSS angeschaut.
+Ich habe heute mir ein Projekt überlegt und dieses Angefangen. Ich will etwas mit machen indem ich die funktion von C# ausnutzen kann in Dokumente zu schreiben. Ich habe mir noch HTML und CSS angeschaut. Das habe ich gemacht, weil ich mein Projekt dann vielleicht damit machen werde. Also das C# in ein HTML schreibt.
 
 ## Arbeitspakete für 07.11.23
 
