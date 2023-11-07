@@ -28,6 +28,14 @@ Ich habe heute mir ein Projekt überlegt und dieses Angefangen. Ich will etwas m
 
 ## Arbeitspakete für 07.11.23
 
-- [] Fehler im Programm beheben (es findet die Datei nicht)
-- [] Mich mehr über diese Funktion informieren
-- [] Mit der Funktion rum experementieren
+- [/] Fehler im Programm beheben (es findet die Datei nicht)
+- [X] Mich mehr über diese Funktion informieren
+- [X] Mit der Funktion rum experementieren
+
+Ich habe lange nach dem Fehler im Programm gesucht doch habe leider noch nichts gefunden. Ich habe auch mal im Internet geschaut was man damit so machen kann und habe ein bisschen herum experemeniert.
+
+## Arbeitspakete für 14.11.23
+
+- [] Ein funktionierendes Programm mit der Funktion erstellen.
+- [] An dem Projekt (Kantilehrer) arbeiten
+- [] Vielleicht grössseres Projekt starten
