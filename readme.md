@@ -37,5 +37,12 @@ Ich habe lange nach dem Fehler im Programm gesucht doch habe leider noch nichts 
 ## Arbeitspakete für 14.11.23
 
 - [] Ein funktionierendes Programm mit der Funktion erstellen.
-- [] An dem Projekt (Kantilehrer) arbeiten
+- [X] An dem Projekt (Kantilehrer) arbeiten
 - [] Vielleicht grössseres Projekt starten
+
+Wir haben heute an unserem Projekt gearbeitet. Wir haben neue Funktionen kennengelernt wie z.B. set und get. 
+## Arbeitspakete für 21.11.23
+
+- [] An dem Projekt (Kantilehrer) arbeiten
+- [] An dem Modul 162 (Aufträge von nächster Lektion) arbeiten
+- [] Aufträge Modul 162 repetieren
