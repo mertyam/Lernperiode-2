@@ -40,7 +40,7 @@ Ich habe lange nach dem Fehler im Programm gesucht doch habe leider noch nichts 
 - [X] An dem Projekt (Kantilehrer) arbeiten
 - [] Vielleicht grössseres Projekt starten
 
-Wir haben heute an unserem Projekt gearbeitet. Wir haben neue Funktionen kennengelernt wie z.B. set und get. 
+Wir haben heute an unserem Projekt gearbeitet. Wir haben neue Funktionen kennengelernt wie z.B. set und get. Wir haben viele Buchungssätze geschrieben und in das Programm einefügt.
 ## Arbeitspakete für 21.11.23
 
 - [] An dem Projekt (Kantilehrer) arbeiten
