@@ -40,9 +40,18 @@ Ich habe lange nach dem Fehler im Programm gesucht doch habe leider noch nichts 
 - [X] An dem Projekt (Kantilehrer) arbeiten
 - [] Vielleicht grössseres Projekt starten
 
-Wir haben heute an unserem Projekt gearbeitet. Wir haben neue Funktionen kennengelernt wie z.B. set und get. Wir haben viele Buchungssätze geschrieben und in das Programm einefügt.
+Wir haben heute an unserem Projekt gearbeitet. Wir haben neue Funktionen kennengelernt wie z.B. set und get. Wir haben viele Buchungssätze geschrieben und in das Programm eingefügt.
+
 ## Arbeitspakete für 21.11.23
 
-- [] An dem Projekt (Kantilehrer) arbeiten
-- [] An dem Modul 162 (Aufträge von nächster Lektion) arbeiten
-- [] Aufträge Modul 162 repetieren
+- [x] An dem Projekt (Kantilehrer) arbeiten
+- [x] An dem Modul 162 (Aufträge von nächster Lektion) arbeiten
+- [x] Aufträge Modul 162 repetieren
+
+Ich habe an dem nächsten Auftrag des Moduls 162 gearbeitet und habe das Thema von letzter Woche repetiert. Die meiste Zeit haben wir an dem Projekt gearbeitet. Das Projekt hat sich als komplizierter als ertwartet herrausgestellt. Wir haben Testläufe mit einem Server gemacht in C#.
+
+## Arbeitspakete für 28.11.23
+
+- [] Herausfinden wie man Antworten speichert und auswertet
+- [] Weiter mit dem Server herumexperementieren
+- [] Code des Projekts erweitern
