@@ -52,6 +52,12 @@ Ich habe an dem nächsten Auftrag des Moduls 162 gearbeitet und habe das Thema v
 
 ## Arbeitspakete für 28.11.23
 
-- [] Herausfinden wie man Antworten speichert und auswertet
-- [] Weiter mit dem Server herumexperementieren
-- [] Code des Projekts erweitern
+- [x] Herausfinden wie man Antworten speichert und auswertet
+- [x] Weiter mit dem Server herumexperementieren
+- [x] Code des Projekts erweitern
+
+## Arbeitspakete für 5.12.23
+
+- [] Projekt in HTML umschreiben
+- [] Projekt in JAVA umschreiben und verstehen
+- [] Probleme beheben
