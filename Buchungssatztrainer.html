@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Buchungsübungen</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+ 
+        #container {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+</style>
+</head>
+<body>
+<div id="container">
+<h1>Buchungsübungen</h1>
+<input type="file" id="fileInput" accept=".csv" />
+<button onclick="startBuchungsuebungen()">Starten</button>
+<div id="buchungssatz"></div>
+<input type="text" id="eingabe" style="margin-top: 10px;" placeholder="Antwort eingeben">
+<button onclick="pruefeAntwort()">Antwort überprüfen</button>
+<button onclick="naechsteFrage()">Nächste Frage</button>
+<div id="feedback" style="margin-top: 20px;"></div>
+<div id="ergebnisse" style="margin-top: 20px;"></div>
+ 
+        <script>
+            var buchungssaetze = [];
+            var antworten = [];
+            var aktuelleFrageIndex = -1;
+            var anzahlRichtig = 0;
+            var falscheAntwortenProKonto = {};
+ 
+            function startBuchungsuebungen() {
+                var fileInput = document.getElementById('fileInput');
+                var selectedFile = fileInput.files[0];
+ 
+                if (selectedFile) {
+                    var reader = new FileReader();
+ 
+                    reader.onload = function (event) {
+                        var fileContent = event.target.result;
+                        processCSV(fileContent);
+                    };
+ 
+                    reader.readAsText(selectedFile);
+                } else {
+                    alert("Bitte wählen Sie eine CSV-Datei aus.");
+                }
+            }
+ 
+            function processCSV(fileContent) {
+                var lines = fileContent.split('\r\n');
+                for (var i = 0; i < lines.length; i++) {
+                    var lineParts = lines[i].split(';');
+                    buchungssaetze.push(lineParts[0]);
+                    antworten.push(lineParts[1]);
+                }
+ 
+                // Starten der ersten Frage
+                naechsteFrage();
+            }
+ 
+            function naechsteFrage() {
+                if (aktuelleFrageIndex < buchungssaetze.length) {
+                    aktuelleFrageIndex++;
+                    // Zeigen Sie die aktuelle Frage an
+                    document.getElementById("buchungssatz").innerHTML = buchungssaetze[aktuelleFrageIndex];
+                    document.getElementById("feedback").innerHTML = "";
+                } else {
+                    // Alle Fragen wurden beantwortet, zeige die Ergebnisse an
+                    zeigeErgebnisse();
+                }
+            }
+ 
+            function pruefeAntwort() {
+                var eingabe = document.getElementById("eingabe").value;
+                var istRichtig = (eingabe == antworten[aktuelleFrageIndex]);
+ 
+                if (istRichtig) {
+                    document.getElementById("feedback").innerText = "Glückwunsch! Sie haben es richtig!";
+                    anzahlRichtig++;
+                } else {
+                    document.getElementById("feedback").innerText = "Das war leider falsch. Richtige Antwort: " + antworten[aktuelleFrageIndex];
+ 
+                    // Erfassen Sie falsche Antworten pro Konto
+                    var aktuellesKonto = buchungssaetze[aktuelleFrageIndex];
+                    if (falscheAntwortenProKonto.hasOwnProperty(aktuellesKonto)) {
+                        falscheAntwortenProKonto[aktuellesKonto]++;
+                    } else {
+                        falscheAntwortenProKonto[aktuellesKonto] = 1;
+                    }
+                }
+ 
+ 
+            }
+ 
+            function zeigeErgebnisse() {
+                var ergebnisseDiv = document.getElementById("ergebnisse");
+                ergebnisseDiv.innerHTML = "";
+           
+                // Anzeigen falscher Antworten pro Konto
+                for (var konto in falscheAntwortenProKonto) {
+                    ergebnisseDiv.innerHTML += "Konto " + konto + ": " + falscheAntwortenProKonto[konto] + " falsche Antworten<br>";
+                }
+            }
+        </script>
+           
+           
