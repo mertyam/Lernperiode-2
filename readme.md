@@ -58,6 +58,14 @@ Ich habe an dem nächsten Auftrag des Moduls 162 gearbeitet und habe das Thema v
 
 ## Arbeitspakete für 5.12.23
 
-- [] Projekt in HTML umschreiben
-- [] Projekt in JAVA umschreiben und verstehen
-- [] Probleme beheben
+- [x] Projekt in HTML umschreiben
+- [x] Projekt in JAVA umschreiben und verstehen
+- [x] Probleme beheben
+
+Ich habe das Projekt fertiggestellt. Ich habe sehr lange dafür gebraucht, weil ich noch kein Javascribt-Wissen hatte. Mit dem HTML hatte ich nicht so Probleme da HTML eine einfachere Programmiersprache ist.
+
+## Arbeitspakete für 12.12.23
+
+- [ ] Ich werde versuchen mein Interface zu verschönern
+- [ ] Ich will Fehlerexeptionen versuchen zu machen
+- [ ] Ich will einen neuen Button hinzufügen
