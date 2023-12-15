@@ -66,6 +66,14 @@ Ich habe das Projekt fertiggestellt. Ich habe sehr lange dafür gebraucht, weil 
 
 ## Arbeitspakete für 12.12.23
 
-- [ ] Ich werde versuchen mein Interface zu verschönern
-- [ ] Ich will Fehlerexeptionen versuchen zu machen
-- [ ] Ich will einen neuen Button hinzufügen
+- [x] Ich werde versuchen mein Interface zu verschönern
+- [x] Ich will Fehlerexeptionen versuchen zu machen
+- [x] Ich will einen neuen Button hinzufügen
+
+Ich habe alles geschafft ausser Fehlerexeptionen einzubauen da meine Zeit nicht mehr gereicht hat. Ich habe
+
+## Arbeitspakete für 19.12.23
+
+- [] Ich will einen Fehler in meinen Programm beheben
+- [] Ich will Fehlerexeptionen versuchen zu machen
+- [] Ich will versuchen weiter am Interface zu arbeiten
