@@ -74,6 +74,8 @@ Ich habe alles geschafft ausser Fehlerexeptionen einzubauen da meine Zeit nicht 
 
 ## Arbeitspakete für 19.12.23
 
-- [] Ich will einen Fehler in meinen Programm beheben
-- [] Ich will Fehlerexeptionen versuchen zu machen
-- [] Ich will versuchen weiter am Interface zu arbeiten
+- [x] Ich will einen Fehler in meinen Programm beheben
+- [x] Ich will Fehlerexeptionen versuchen zu machen
+- [x] Ich will versuchen weiter am Interface zu arbeiten
+
+I
